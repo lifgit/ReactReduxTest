@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Michael Jackson",
+      "github": "mjackson",
+      "twitter": "mjackson",
+      "worksOn": "stuff1"
+    },
+    {
+      "id": 2,
+      "name": "Feizhi Li",
+      "github": "lifgit",
+      "twitter": "lifeizhi",
+      "worksOn": "stuff2"
+    }
+  ],
+  "widgets": [
+    {
+      "id": 1,
+      "name": "Widget One"
+    },
+    {
+      "id": 2,
+      "name": "Widget Two"
+    },
+    {
+      "id": 3,
+      "name": "Widget Three"
+    },
+    {
+      "id": 4,
+      "name": "Widget Four"
+    }
+  ]
+}
